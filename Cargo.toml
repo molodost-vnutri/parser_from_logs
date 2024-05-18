@@ -1,0 +1,9 @@
+[package]
+name = "parser_from_logs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+regex = "1.10.4"
+druid = "0.8.3"
+tinyfiledialogs = "3.9.1"
